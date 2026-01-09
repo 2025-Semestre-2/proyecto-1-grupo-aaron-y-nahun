@@ -3,6 +3,6 @@
 ### Nombre y carné de los integrantes: 
 Nahun Araya Trejos 2024083241
 Aaron Segura Alfaro 2023800052
-### Estado del proyecto:Mitad de camino
+### Estado del proyecto:Enviado
 ### Enlace del video:
 Recordar que el video debe ser público para ser visto por el profesor
